@@ -1,5 +1,4 @@
-![avatar](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2309723364,1895780399&fm=26&gp=0.jpg)
-
+![](https://ftp.bmp.ovh/imgs/2020/09/8347399ab29fbbc4.png)
 <!--
 **jjy05/jjy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

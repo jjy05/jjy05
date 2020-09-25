@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjy05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![avatar](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2309723364,1895780399&fm=26&gp=0.jpg)
 
 <!--
 **jjy05/jjy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
